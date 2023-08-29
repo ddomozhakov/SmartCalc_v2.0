@@ -1,16 +1,16 @@
 # SmartCalc_v2.0
 Calculator with the function of drawing charts and calculating loans and deposits
 
-*** Установка *** 
+*** Installation *** 
 
  - make install
- - по умолчанию папка для установки Build
+ -default installation folder - Build
  
-*** Использование ***
-Реализовано 3 режима калькулятора:
- - инженерный калькулятор для расчетов и построения графиков
- - калькулятор для расчета платежей по кредиту
- - калькулятор вкладов
+*** Usage ***
+3 modes of the calculator are implemented:
+ - engineering calculator for calculations and graphing
+ - loan payment calculator
+ - deposit calculator
 
-*** Удаление ***
+*** Deletion ***
 make uninstall
