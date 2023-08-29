@@ -1,6 +1,8 @@
 # SmartCalc_v2.0
 Calculator with the function of drawing charts and calculating loans and deposits
 
+<img src="materials/mainwindow.png" alt="preview" width="350">
+
 *** Installation *** 
 
  - make install
