@@ -23,4 +23,4 @@ Model-view-controller (MVC) pattern implemented
 
 *** Requirements ***
 
- - C++ 17, Qt6 CMake;
+ - C++ 17, Qt6, CMake;
