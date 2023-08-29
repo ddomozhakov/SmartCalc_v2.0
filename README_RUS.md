@@ -1,6 +1,8 @@
 # SmartCalc_v2.0
 Калькулятор с функцией построения графиков и расчета кредитов и депозитов
 
+Реализован паттерн Model–view–controller (MVC)
+
 <img src="materials/mainwindow.png" alt="preview" width="350">
 
 *** Установка *** 
