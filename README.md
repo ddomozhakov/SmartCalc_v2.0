@@ -16,3 +16,6 @@ Calculator with the function of drawing charts and calculating loans and deposit
 
 *** Deletion ***
 make uninstall
+
+*** Requirements ***
+C++ 17, Qt6 CMake;
