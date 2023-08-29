@@ -4,7 +4,7 @@ Calculator with the function of drawing charts and calculating loans and deposit
 *** Installation *** 
 
  - make install
- -default installation folder - Build
+ - default installation folder - Build
  
 *** Usage ***
 3 modes of the calculator are implemented:
