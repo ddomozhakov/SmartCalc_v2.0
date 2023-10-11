@@ -3,6 +3,9 @@ Calculator with the function of drawing charts and calculating loans and deposit
 
 Model-view-controller (MVC) pattern implemented
 
+The program may not display correctly on Linux systems with interface scaling enabled. 
+Set the interface scale to 100%. 
+
 <img src="materials/mainwindow.png" alt="preview" width="350">
 
 *** Installation *** 
