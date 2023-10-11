@@ -11,7 +11,7 @@ Set the interface scale to 100%.
 *** Installation *** 
 
  - make install
- - default installation folder - Build
+ - default installation folder - src/build
  
 *** Usage ***
 
